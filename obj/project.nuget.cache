@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wbzcqXkk8ur17rYZ/H0CFGxNpauk5/dyh13CeXz9oSVQtJ3SleELJqjDzqdNWGBgh+1/Uu+mQfvsbzQ1oZaKbg==",
+  "dgSpecHash": "ePZuRZdmcCrBqc5TQv/qQwtpCfCA45FAb3tgV1NvqRCcX9U6Z39BFdEhlQYOO61QpxFl3LTvtzyAk8Zj3fClvA==",
   "success": true,
   "projectFilePath": "C:\\c\\Programming\\az\\ahoyadora1\\ahoyadora1.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,7 @@
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.9\\microsoft.jsinterop.webassembly.5.0.9.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.9\\microsoft.netcore.app.runtime.browser-wasm.5.0.9.nupkg.sha512"
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.5\\microsoft.netcore.app.runtime.browser-wasm.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -8,105 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1239861309,
-        "Kind": "Components.Component",
-        "Name": "ahoyadora1.App",
-        "AssemblyName": "ahoyadora1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.App"
-        }
-      },
-      {
-        "HashCode": 1831059025,
-        "Kind": "Components.Component",
-        "Name": "ahoyadora1.App",
-        "AssemblyName": "ahoyadora1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ahoyadora1.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1027065806,
-        "Kind": "Components.Component",
-        "Name": "ahoyadora1.Pages.Counter",
-        "AssemblyName": "ahoyadora1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1144243047,
-        "Kind": "Components.Component",
-        "Name": "ahoyadora1.Pages.Counter",
-        "AssemblyName": "ahoyadora1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ahoyadora1.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -742051327,
-        "Kind": "Components.Component",
-        "Name": "ahoyadora1.Pages.FetchData",
-        "AssemblyName": "ahoyadora1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -707682522,
-        "Kind": "Components.Component",
-        "Name": "ahoyadora1.Pages.FetchData",
-        "AssemblyName": "ahoyadora1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ahoyadora1.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 2128187343,
         "Kind": "Components.Component",
         "Name": "ahoyadora1.Pages.Index",
@@ -136,59 +37,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "ahoyadora1.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 664410532,
-        "Kind": "Components.Component",
-        "Name": "ahoyadora1.Shared.SurveyPrompt",
-        "AssemblyName": "ahoyadora1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1767739554,
-        "Kind": "Components.Component",
-        "Name": "ahoyadora1.Shared.SurveyPrompt",
-        "AssemblyName": "ahoyadora1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ahoyadora1.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,35 +137,35 @@
         }
       },
       {
-        "HashCode": 2083205692,
+        "HashCode": 1239861309,
         "Kind": "Components.Component",
-        "Name": "ahoyadora1.Shared.NavMenu",
+        "Name": "ahoyadora1.App",
         "AssemblyName": "ahoyadora1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.Shared.NavMenu"
+          "Common.TypeName": "ahoyadora1.App"
         }
       },
       {
-        "HashCode": -725556510,
+        "HashCode": 1831059025,
         "Kind": "Components.Component",
-        "Name": "ahoyadora1.Shared.NavMenu",
+        "Name": "ahoyadora1.App",
         "AssemblyName": "ahoyadora1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ahoyadora1.Shared.NavMenu"
+            "TagName": "ahoyadora1.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ahoyadora1.Shared.NavMenu",
+          "Common.TypeName": "ahoyadora1.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13009,18 +12857,8 @@
   "RootNamespace": "ahoyadora1",
   "Documents": [
     {
-      "FilePath": "c:\\c\\Programming\\az\\ahoyadora1\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\c\\Programming\\az\\ahoyadora1\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\c\\Programming\\az\\ahoyadora1\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
@@ -13031,16 +12869,6 @@
     {
       "FilePath": "c:\\c\\Programming\\az\\ahoyadora1\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\c\\Programming\\az\\ahoyadora1\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\c\\Programming\\az\\ahoyadora1\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
